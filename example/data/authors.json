@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Matt",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about me."
+    },
+    {
+        "name": "Matt2",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about me2."
+    },
+    {
+        "name": "Matt3",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about me3."
+    },
+    {
+        "name": "Matt4",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about me4."
+    },
+    {
+        "name": "John",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about John."
+    },
+    {
+        "name": "James",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about James."
+    },
+    {
+        "name": "Tim",
+        "avatar": "./example/Default/Default.jpg",
+        "bio": "Here is some stuff about Tim."
+    }
+]
